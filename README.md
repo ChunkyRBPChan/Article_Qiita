@@ -13,3 +13,4 @@ Qiitaにあげている競技プログラミングに関する記事のファイ
 |2022/04/13|典型90問006 Smallest SubsequenceをPythonで解く！<br>https://qiita.com/Chunky_RBP_chan/items/ed43605c2857bf17ce97
 |2022/04/15|典型90問007 CP ClassesをPythonで解く！<br>https://qiita.com/Chunky_RBP_chan/items/ff65c8d64f296730e56e|
 |2022/04/17|ABC248 A~DをPythonで解く！<br>https://qiita.com/Chunky_RBP_chan/items/2cba88432633452b1512|
+|2022/04/19|典型90問008 AtCounterで解く！<br>https://qiita.com/Chunky_RBP_chan/items/d7c91371de2fc44f52d5|
